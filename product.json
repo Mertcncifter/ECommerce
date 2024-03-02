@@ -1,0 +1,119 @@
+
+{
+    "data": [
+        {
+          "id": 1,
+          "title": "İphone 7",
+          "price": 7000,
+          "image": "iphone7"
+        },
+        {
+          "id": 2,
+          "title": "İphone 8",
+          "price": 7000,
+          "image": "iphone8"
+        },
+        {
+          "id": 3,
+          "title": "İphone X",
+          "price": 7000,
+          "image": "iphonex"
+        },
+        {
+          "id": 4,
+          "title": "İphone 11",
+          "price": 7000,
+          "image": "iphone11"
+        },
+        {
+          "id": 5,
+          "title": "İphone 12",
+          "price": 7000,
+          "image": "iphone12"
+        },
+        {
+          "id": 6,
+          "title": "İphone 13",
+          "price": 7000,
+          "image": "iphone13"
+        },
+        {
+          "id": 7,
+          "title": "İphone 14",
+          "price": 7000,
+          "image": "iphone14"
+        },
+        {
+          "id": 8,
+          "title": "Samsung Galaxy S20",
+          "price": 7000,
+          "image": "s20"
+        },
+        {
+          "id": 9,
+          "title": "Samsung Galaxy S21",
+          "price": 7000,
+          "image": "s21"
+        },
+        {
+          "id": 10,
+          "title": "Samsung Galaxy S22",
+          "price": 7000,
+          "image": "s22"
+        },
+        {
+          "id": 11,
+          "title": "Samsung Galaxy S23",
+          "price": 7000,
+          "image": "s23"
+        },
+        {
+          "id": 12,
+          "title": "Xiaomi Redmi 10",
+          "price": 7000,
+          "image": "redmi10"
+        },
+        {
+          "id": 13,
+          "title": "Xiaomi Redmi 11",
+          "price": 7.000,
+          "image": "redmi11"
+        },
+        {
+          "id": 14,
+          "title": "Xiaomi Redmi 12",
+          "price": 7000,
+          "image": "redmi12"
+        },
+        {
+          "id": 15,
+          "title": "Huawei Mate 10",
+          "price": 7000,
+          "image": "mate10"
+        },
+        {
+          "id": 16,
+          "title": "Huawei Mate 20",
+          "price": 7000,
+          "image": "mate20"
+        },
+        {
+          "id": 18,
+          "title": "Huawei Mate 30",
+          "price": 7000,
+          "image": "mate30"
+        },
+        {
+          "id": 19,
+          "title": "Huawei Mate 40",
+          "price": 7000,
+          "image": "mate40"
+        },
+        {
+          "id": 20,
+          "title": "Huawei P40",
+          "price": 7000,
+          "image": "mate40"
+        }
+    ]
+}
